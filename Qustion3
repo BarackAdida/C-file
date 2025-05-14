@@ -1,0 +1,7 @@
+START
+    Input weight in grams
+    weight in Kilograms = weight / 1000
+    packages in one kilogram = 1000 / weight
+    output the weight of in Kilograms
+    output packages in one kilogram
+STOP
