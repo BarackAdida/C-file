@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+void gradeswitch() {
     char grade;
 
     do {
@@ -44,6 +44,9 @@ int main() {
         }
 
     } while (toupper(grade) != 'X');
+}
 
+int main() {
+    gradeswitch();
     return 0;
 }
