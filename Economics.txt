@@ -1,0 +1,31 @@
+REVENUE CONCEPTS
+-Revenue is the reciepts from the sale of a firm's output.
+
+Average Revenue
+-Is the revenue per unit of output sold
+AR = TR/Q
+but TR = P*Q
+AR = PQ/Q = P
+
+Marginal Revenue(MR)
+-Marginal revenue is the change in total revenue with respect to change in quantity
+
+
+Price-Taking firm
+-This is when a firm has no significant control over the price of it producs in a 
+ perfectly competitive market
+
+
+ Profit CONCEPTS
+    - Profit is the reward enjoyed by enterprenuers
+
+
+Economic Profit, Normal Profitand Economic Profit
+a) Economic Profit
+    -Is the excess of tortal revenue over total cost when the latter includes both explicit and iplicit cost
+
+b) Normal Profit
+    -When total revenue is equal to the total cost
+
+c) Economic loss
+    -When total revenue is less than the total revenue
